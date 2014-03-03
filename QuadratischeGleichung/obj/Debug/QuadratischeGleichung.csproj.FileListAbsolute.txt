@@ -1,0 +1,6 @@
+c:\users\tobias\documents\visual studio 2013\Projects\QuadratischeGleichung\QuadratischeGleichung\bin\Debug\QuadratischeGleichung.exe.config
+C:\Users\Tobias\documents\visual studio 2013\Projects\QuadratischeGleichung\QuadratischeGleichung\bin\Debug\QuadratischeGleichung.exe
+C:\Users\Tobias\documents\visual studio 2013\Projects\QuadratischeGleichung\QuadratischeGleichung\bin\Debug\QuadratischeGleichung.pdb
+C:\Users\Tobias\documents\visual studio 2013\Projects\QuadratischeGleichung\QuadratischeGleichung\obj\Debug\QuadratischeGleichung.csprojResolveAssemblyReference.cache
+C:\Users\Tobias\documents\visual studio 2013\Projects\QuadratischeGleichung\QuadratischeGleichung\obj\Debug\QuadratischeGleichung.exe
+C:\Users\Tobias\documents\visual studio 2013\Projects\QuadratischeGleichung\QuadratischeGleichung\obj\Debug\QuadratischeGleichung.pdb
